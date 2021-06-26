@@ -1,12 +1,12 @@
-title: Welcome
+title: dallonkang.dev
 author: DK
 email: dallonkang@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I am Dallon. I am a beginning Full Stack Developer. This website showcases some of the things I have experimented for my learning. Feel free to take a look!
+  Hi, I am Dallon. I am a beginning Full Stack Developer. This blog logs some of the things I have experimented for my learning. Feel free to take a look!
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  dallonkang # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: particle
